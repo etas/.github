@@ -6,15 +6,15 @@ Interested in what that exactly means to us as ETAS? Take a look at our official
 
 The following badges show the projects we are activeliy involved in:
 
-[![Eclipse Leda](https://img.shields.io/badge/github-automotive.leda-8A4F9D?logo=github)](https://projects.eclipse.org/projects/automotive.leda)
-[![Velocitas](https://img.shields.io/badge/github-automotive.velocitas-4F9DD3?logo=github)](https://projects.eclipse.org/projects/automotive.velocitas)
-[![KUKSA](https://img.shields.io/badge/github-automotive.kuksa-2DA992?logo=github)](https://projects.eclipse.org/projects/automotive.kuksa)
-[![Eclipse IDE](https://img.shields.io/badge/github-eclipse.ide-3E3078?logo=github)](https://www.eclipse.org/ide/)
-[![SDV Blueprints](https://img.shields.io/badge/github-automotive.sdv-F68D2C?logo=github)](https://projects.eclipse.org/projects/automotive.sdv-blueprints)
+[![Eclipse Leda](https://img.shields.io/badge/github-automotive.leda-8A4F9D?logo=github)](https://eclipse-leda.github.io/leda/)
+[![Velocitas](https://img.shields.io/badge/github-automotive.velocitas-4F9DD3?logo=github)](https://github.com/eclipse-velocitas)
+[![KUKSA](https://img.shields.io/badge/github-automotive.kuksa-2DA992?logo=github)](https://github.com/eclipse-kuksa)
+[![SDV Blueprints](https://img.shields.io/badge/github-automotive.sdv-F68D2C?logo=github)](https://github.com/eclipse-sdv-blueprints)
+[![Eclipse IDE Badge](https://img.shields.io/badge/Eclipse%20IDE-2C2255?logo=eclipseide&logoColor=fff&style=flat)](https://www.eclipse.org/ide/)
 
 These are our partnerships and partner networks that are key enablers for tomorrow's automotive software:
 
-[![Eclipse Software Defined Vehicle](https://img.shields.io/badge/github-eclpise.sdv-AB1A6E?logo=github)](https://sdv.eclipse.org/)
-[![Connected Vehicle Systems Alliance](https://img.shields.io/badge/github-COVESA-6BAACF?logo=github)](https://covesa.global/)
-[![digital.auto](https://img.shields.io/badge/github-digital.auto-819D4E?logo=github)](https://www.digital-auto.org/)
-[![Linux Foundation](https://img.shields.io/badge/github-linux.foundation-003464?logo=github)](https://www.linuxfoundation.org/)
+[![Eclipse Software Defined Vehicle](https://img.shields.io/badge/eclipse-sdv-AB1A6E)](https://sdv.eclipse.org/)
+[![Connected Vehicle Systems Alliance](https://img.shields.io/badge/github-COVESA-6BAACF?logo=github)](https://github.com/COVESA)
+[![digital.auto](https://img.shields.io/badge/digital.auto-819D4E)](https://www.digital-auto.org/)
+[![Linux Foundation Badge](https://img.shields.io/badge/Linux%20Foundation-036?logo=linuxfoundation&logoColor=fff&style=flat)](https://www.linuxfoundation.org/)
