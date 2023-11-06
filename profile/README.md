@@ -2,9 +2,9 @@
 
 For us, as the long-time experts in vehicle base software, middleware, development tools, cloud-based operations services, cybersecurity solutions, and end-to-end engineering and consulting services, Enabling Tomorrow's Automotive Software really means sparking collaboration and thereby innovation with Free and Open Source Software (FOSS) in a vibrant community.
 
-Interested in what that exactly means to us as ETAS? Take a look at our official [💙 FOSS Manifesto 💙](https://www.etas.com/en/open-source-software.php)!
+Interested in what that exactly means to us as [ETAS](https://www.etas.com/)? Take a look at our official [💙 FOSS Manifesto 💙](https://www.etas.com/en/open-source-software.php)!
 
-The following badges show the projects we are activeliy involved in:
+The following badges show the projects we are actively involved in:
 
 [![Eclipse Leda](https://img.shields.io/badge/github-automotive.leda-8A4F9D?logo=github)](https://eclipse-leda.github.io/leda/)
 [![Velocitas](https://img.shields.io/badge/github-automotive.velocitas-4F9DD3?logo=github)](https://github.com/eclipse-velocitas)
